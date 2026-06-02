@@ -9,4 +9,8 @@ echo "Enter time period in years:"
 read t
 
 s=`expr $p \* $t \* $r / 100`
-echo "The simple interest is: $s"
+echo "The simple interesting is: $s"
+
+
+# fix  bug tes
+# branch fix-typo
